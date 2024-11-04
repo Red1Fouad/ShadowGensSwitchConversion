@@ -1,0 +1,2 @@
+# ShadowGensSwitchConversion
+shadow generations mod
